@@ -1,0 +1,7 @@
+[user]
+	email = ktmcma556@gmail.com
+	name = ktorres67
+[init]
+	defaultBranch = master
+[safe]
+	directory = %(prefix)///altair/usuaris/Alumnes/ktorres/
